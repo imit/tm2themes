@@ -1,0 +1,10 @@
+{	"contactEmailRot13" = "imitkit@gmail.com";
+	contactName = "Umit Kitapcigil";
+	description = "found themes";
+	name = "Shine and smile";
+	source = {
+		method = "git";
+		url = "git@github.com:imit/tm2themes.git";
+	};
+	uuid = "4E42B84B-1FB6-4642-B3FF-8AD6564CF117";
+}
